@@ -1,4 +1,4 @@
-## Hi there 👋
+Buenas 👋
 
 Mi nombre es Ivan Graneros, tengo 21 años y sere un futuro programador
 
