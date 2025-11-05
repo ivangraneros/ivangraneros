@@ -1,6 +1,6 @@
 Buenas 👋
 
-Mi nombre es Ivan Graneros, tengo 21 años y sere un futuro programador
+Mi nombre es Ivan Graneros, tengo 22 años y sere un futuro programador
 
 
 - 🔭 I’m currently working on ...
